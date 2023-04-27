@@ -1,7 +1,9 @@
 # IT101
 Something for my IT101 class
 
-## *crazy*shrom
+## *crazy*krinkly
+crhinky
+blinky
 shrombulo
 minjingo
 
