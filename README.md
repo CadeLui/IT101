@@ -1,10 +1,9 @@
 # IT101
 Something for my IT101 class
 
-## *crazy*
-- wacky
-1. quircky
-* wild
+## *crazy*krinkly
+crhinky
+blinky
 
 edit
 ~~more edits~~
